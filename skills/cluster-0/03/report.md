@@ -1,12 +1,12 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Nnenna Eze
 
-Date: YYYY-MM-DD
+Date: 2020-09-06
 -----
 
 ## Summary
-
+I have updated this report to indicate I posted a profile picture on Piazza
 
 ## Sketches and Photos
 
