@@ -1,12 +1,12 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Nnenna Eze
 
-Date: YYYY-MM-DD
+Date: 2020-09-06
 -----
 
 ## Summary
-
+I will use Atom as my preferred IDE/editor
 
 ## Sketches and Photos
 
