@@ -1,8 +1,8 @@
-#  Skill Name
+#  Skill Name: Uploading Video to Cloud
 
-Author: FirstName LastName
+Author: Nnenna Eze
 
-Date: YYYY-MM-DD
+Date: 2020-09-06
 -----
 
 ## Summary
