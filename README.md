@@ -1,3 +1,3 @@
-# LastName-FirstName
+# Eze-Nnenna
 
-Hello, I am FirstName LastName. I keep my repositories organized and well documented. In general, each skill exists in a cluster subfolder.
+Hello, I am Nnenna Eze. I keep my repositories organized and well documented. In general, each skill exists in a cluster subfolder.
