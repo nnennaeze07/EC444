@@ -13,7 +13,7 @@ The skill required the use of more GPIO pins, in order to make four LEDs light u
 
 <img src = "https://user-images.githubusercontent.com/44929220/93952819-ccc8ac80-fd17-11ea-8c15-ae0fa6d52259.jpg" width="250" height = "250">
 
-[![EC444skill7]](https://youtu.be/gp6tsJGYEhk)
+[EC444_skill7_video_demo](https://youtu.be/gp6tsJGYEhk)
 
 ## Modules, Tools, Source Used Including Attribution
 GPIO Pins
