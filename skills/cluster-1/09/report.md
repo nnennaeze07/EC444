@@ -12,6 +12,10 @@ In this skill the servo motor was used. The goal of this skill was to make the s
 ## Sketches and Photos
 [EC444_skill9_demo_video](https://youtu.be/PFgoEafUZfk)
 
+<img src="https://user-images.githubusercontent.com/44929220/93962882-cd6a3e80-fd29-11ea-8b3e-42bf78d2475d.jpg" width="250" height="250">
+
+<img src="https://user-images.githubusercontent.com/44929220/93962885-cfcc9880-fd29-11ea-9741-2444aae3fda9.jpg" width="250" height="250">
+
 ## Modules, Tools, Source Used Including Attribution
 GPIO Pins
 
