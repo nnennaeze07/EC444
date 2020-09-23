@@ -10,16 +10,25 @@ This skill proved to be one of the most difficult so far. It required implementi
 
 
 ## Sketches and Photos
+<img src = "https://user-images.githubusercontent.com/44929220/93952831-d6eaab00-fd17-11ea-9dce-1ae8a90ac46f.jpg" width="250" height = "250">
 
+<img src = "https://user-images.githubusercontent.com/44929220/93952840-de11b900-fd17-11ea-8714-862a4b2f14d7.jpg" width="250" height = "250">
 
 ## Modules, Tools, Source Used Including Attribution
 Scheduling
+
 Tasks
+
 RTOS
+
 Alphanumeric Display
+
 GPIO Pins
+
 Bit Shifting (Binary Count)
+
 LEDs
+
 Pushbutton
 
 ## Supporting Artifacts
