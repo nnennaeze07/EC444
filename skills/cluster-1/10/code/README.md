@@ -1,8 +1,6 @@
 # Code Readme
+Author: Nnenna Eze
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Date: 09/22/2020
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+In skill 10, the program uses RTOS to schedule tasks based on priority. The three tasks were displaying up/down on the alphanumeric display, counting up or down in binary, and finally using a pusbutton to toggle between up/down directions.
