@@ -1,5 +1,8 @@
 # Code Readme
 
+Author: Nnenna Eze
+Date: 09/22/2020
+
 Please describe what is in your code folder and subfolders. Make it
 easy for us to navigate this space.
 
