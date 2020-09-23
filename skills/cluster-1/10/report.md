@@ -14,6 +14,8 @@ This skill proved to be one of the most difficult so far. It required implementi
 
 <img src = "https://user-images.githubusercontent.com/44929220/93952840-de11b900-fd17-11ea-8714-862a4b2f14d7.jpg" width="250" height = "250">
 
+[EC444_skill10_video_demo](https://youtu.be/C7Y-YyB9pLc)
+
 ## Modules, Tools, Source Used Including Attribution
 Scheduling
 
