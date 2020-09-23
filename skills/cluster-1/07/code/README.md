@@ -1,8 +1,6 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Author: Nnenna Eze
+Date: 09/22/2020
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+In skill 7, the code toggles connected LEDs so that they count up from 0 to 15 in binary. This code was slightly based off of the blink.c program. The LEDs are connect to GPIO pins A0, A1, A5 and the on-board LED. 
