@@ -15,7 +15,9 @@ The skill required the use of more GPIO pins, in order to make four LEDs light u
 
 ## Modules, Tools, Source Used Including Attribution
 GPIO Pins
+
 LEDs
+
 Bit Shifting (for Binary Counting)
 
 ## Supporting Artifacts
