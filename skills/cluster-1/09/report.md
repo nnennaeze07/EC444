@@ -10,7 +10,7 @@ In this skill the servo motor was used. The goal of this skill was to make the s
 
 
 ## Sketches and Photos
-
+[EC444_skill9_demo_video](https://youtu.be/PFgoEafUZfk)
 
 ## Modules, Tools, Source Used Including Attribution
 GPIO Pins
