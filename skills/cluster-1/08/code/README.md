@@ -1,8 +1,12 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+Author: Nnenna Eze
+Date: 09/22/2020
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+The task for skill 8 was to create a program that allows the user to input 4 ASCII characters in the console to be displayed on the alphanumeric display. For reference, I used the code from the following github repositories, and also used a table from an adafruit github:
+
+ 
+
+https://github.com/BU-EC444/code-examples/tree/master/i2c-display 
+
+https://github.com/adafruit/Adafruit_LED_Backpack/blob/master/Adafruit_LEDBackpack.cpp 
