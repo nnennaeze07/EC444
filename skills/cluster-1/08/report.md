@@ -10,10 +10,14 @@ The Adafruit 14-LED alphanumeric display was used for this to display a word inp
 
 
 ## Sketches and Photos
+<img src = "https://user-images.githubusercontent.com/44929220/93952843-e0741300-fd17-11ea-8dd0-0b70073d7840.jpg" width="250" height = "250">
+
+<img src = "https://user-images.githubusercontent.com/44929220/93952850-e2d66d00-fd17-11ea-9c1d-e8e06d7cc83b.jpg" width="250" height = "250">
 
 
 ## Modules, Tools, Source Used Including Attribution
 Alphanumeric Display
+
 Pull up Resistors
 
 ## Supporting Artifacts
