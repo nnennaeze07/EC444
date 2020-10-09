@@ -1,0 +1,195 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>
+Quest 2 Data
+</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type = "text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script type = "text/javascript" src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
+
+<script type = "text/javascript">
+window.onload = function () {
+	$.ajax({url: "/data", success: function(result){
+		var amzn = [];
+		var fb = [];
+		var googl = [];
+		var msft = [];
+    // jQuery.each(result, function(i, val) {
+		// 	contents += val[0] + ", " + val[1] + ", " + val[2] + ", " + " <br />";
+    // });
+		//$("#chartContainer").html(contents);
+		for (var i = 0;i<result.length;i++){
+			var contents = result[i]
+			if(contents[1] == "AMZN"){
+				amzn.push({
+					x: parseFloat(contents[0]),
+					y: parseFloat(contents[2])
+				});
+			}if (contents[1] == "FB"){
+				fb.push({
+					x: parseFloat(contents[0]),
+					y: parseFloat(contents[2])
+				});
+			}if (contents[1] == "GOOGL"){
+				googl.push({
+					x: parseFloat(contents[0]),
+					y: parseFloat(contents[2])
+				});
+			}if (contents[1] == "MSFT"){
+				msft.push({
+					x: parseFloat(contents[0]),
+					y: parseFloat(contents[2])
+				});
+			}
+		}
+	 }
+	var chart = new CanvasJS.Chart("chartContainer", {
+	title:{
+		text: "Quest 2 Sensor Data"
+	},
+	data: [{
+							type: "line",
+							name: "AMZN",
+							showInLegend: true,
+							dataPoints: amzn
+						},
+						{
+							type: "line",
+							name: "FB",
+							showInLegend: true,
+							dataPoints: fb
+						},
+						{
+							type: "line",
+							name: "GOOGL",
+							showInLegend: true,
+							dataPoints: googl
+						},
+						{
+							type: "line",
+							name: "MFST",
+							showInLegend: true,
+							dataPoints: mfst
+						},
+
+					]
+				});
+	// axisY:[{
+	// 	title: "Temperature(C)",
+	// 	lineColor: "#C24642",
+	// 	tickColor: "#C24642",
+	// 	labelFontColor: "#C24642",
+	// 	titleFontColor: "#C24642",
+	// 	includeZero: true,
+	// 	suffix: "C"
+	//},
+	//{
+		// title: "Distance",
+		// lineColor: "#369EAD",
+		// tickColor: "#369EAD",
+		// labelFontColor: "#369EAD",
+		// titleFontColor: "#369EAD",
+		// includeZero: true,
+		// suffix: "m"
+// 	}],
+// 	// axisY2: {
+// 	// 	title: "Light?",
+// 	// 	lineColor: "#7F6084",
+// 	// 	tickColor: "#7F6084",
+// 	// 	labelFontColor: "#7F6084",
+// 	// 	titleFontColor: "#7F6084",
+// 	// 	includeZero: true,
+// 	// 	suffix: "k"
+// 	 //},
+// 	toolTip: {
+// 		shared: true
+// 	},
+// 	legend: {
+// 		cursor: "pointer",
+// 		itemclick: toggleDataSeries
+// 	},
+// 	data: [{
+// 		type: "line",
+// 		name: "Amazon",//"IR Rangefinder",
+// 		color: "#369EAD",
+// 		showInLegend: true,
+// 		axisYIndex: 1,
+// 		dataPoints: [
+// 		 	{ x: dates[1], y: contents[1] },
+// 		 	{ x: dates[5], y: contents[5] },
+// 		 	{ x: dates[9], y: contents[9] },
+// 		 	{ x: dates[13], y: contents[13] },
+// 		 	{ x: dates[17], y: contents[17] },
+// 		 	{ x: dates[21], y: contents[21] },
+// 		 	{ x: dates[25], y: contents[25] },
+// 		 	{ x: dates[29], y: contents[29] },
+// 		 	{ x: dates[33], y: contents[33] },
+// 		 	{ x: dates[37], y: contents[37] },
+// 		 	{ x: dates[41], y: contents[41] },
+// 		 	{ x: dates[45], y: contents[45] }
+// 		 ]
+// 	//},
+// 	//{
+// 		// type: "line",
+// 		// name: "Thermistor",
+// 		// color: "#C24642",
+// 		// axisYIndex: 0,
+// 		// showInLegend: true,
+// 		// dataPoints: [
+// 		// 	{ x: new Date(2017, 00, 7), y: 32.3 },
+// 		// 	{ x: new Date(2017, 00, 14), y: 33.9 },
+// 		// 	{ x: new Date(2017, 00, 21), y: 26.0 },
+// 		// 	{ x: new Date(2017, 00, 28), y: 15.8 },
+// 		// 	{ x: new Date(2017, 01, 4), y: 18.6 },
+// 		// 	{ x: new Date(2017, 01, 11), y: 34.6 },
+// 		// 	{ x: new Date(2017, 01, 18), y: 37.7 },
+// 		// 	{ x: new Date(2017, 01, 25), y: 24.7 },
+// 		// 	{ x: new Date(2017, 02, 4), y: 35.9 },
+// 		// 	{ x: new Date(2017, 02, 11), y: 12.8 },
+// 		// 	{ x: new Date(2017, 02, 18), y: 38.1 },
+// 		// 	{ x: new Date(2017, 02, 25), y: 42.4 }
+// 		// ]
+// 	//},
+// 	// {
+// 	// 	type: "line",
+// 	// 	name: "Ultrasonic Sensor",
+// 	// 	color: "#7F6084",
+// 	// 	axisYType: "secondary",
+// 	// 	showInLegend: true,
+// 		// dataPoints: [
+// 		// 	{ x: new Date(2017, 00, 7), y: 42.5 },
+// 		// 	{ x: new Date(2017, 00, 14), y: 44.3 },
+// 		// 	{ x: new Date(2017, 00, 21), y: 28.7 },
+// 		// 	{ x: new Date(2017, 00, 28), y: 22.5 },
+// 		// 	{ x: new Date(2017, 01, 4), y: 25.6 },
+// 		// 	{ x: new Date(2017, 01, 11), y: 45.7 },
+// 		// 	{ x: new Date(2017, 01, 18), y: 54.6 },
+// 		// 	{ x: new Date(2017, 01, 25), y: 32.0 },
+// 		// 	{ x: new Date(2017, 02, 4), y: 43.9 },
+// 		// 	{ x: new Date(2017, 02, 11), y: 26.4 },
+// 		// 	{ x: new Date(2017, 02, 18), y: 40.3 },
+// 		// 	{ x: new Date(2017, 02, 25), y: 54.2 }
+// 		// ]
+// 	}]
+// });
+	chart.render();
+	}});
+// }
+// function toggleDataSeries(e) {
+// 	if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+// 		e.dataSeries.visible = false;
+// 	} else {
+// 		e.dataSeries.visible = true;
+// 	}
+// 	e.chart.render();
+// }
+
+}
+</script>
+</head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+</html>
