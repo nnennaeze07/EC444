@@ -12,9 +12,13 @@ This skill was simply about downloading and learning nodejs, and then using this
 //screenshots from tutorials
 
 ## Modules, Tools, Source Used Including Attribution
-//references
+Nodejs
 
-## Supporting Artifacts
+Thermistor
 
+ADC
+
+## Supporting Artifacts and References
+https://www.w3schools.com/nodejs/default.asp
 
 -----
