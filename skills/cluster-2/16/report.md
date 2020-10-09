@@ -23,4 +23,8 @@ https://www.w3schools.com/nodejs/default.asp
 
 https://canvasjs.com/javascript-charts/multi-series-chart/
 
+https://github.com/serialport/website/blob/master/docs/api-serialport.md
+
+https://serialport.io/docs/api-parser-readline
+
 -----
