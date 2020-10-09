@@ -12,9 +12,15 @@ In skill 15, an infrared sensor was incorporated into the wiring of the circuit.
 //wiring
 
 ## Modules, Tools, Source Used Including Attribution
-//references
+GPIOs
+
+ADC
+
+Rangefinder/Sensors
 
 ## Supporting Artifacts
+http://home.roboticlab.eu/en/examples/sensor/ir_distance
 
+https://www.limulo.net/website/coding/physical-computing/sharp-linearization.html
 
 -----
