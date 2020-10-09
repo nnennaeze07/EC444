@@ -26,5 +26,9 @@ Resistors
 
 https://learn.adafruit.com/thermistor/using-a-thermistor
 
+https://www.jameco.com/Jameco/workshop/TechTip/temperature-measurement-ntc-thermistors.html
+
+http://eaa.net.au/PDF/Hitech/MF52type.pdf
+
 
 -----
