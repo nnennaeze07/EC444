@@ -18,7 +18,7 @@ Canvasjs
 
 CSV Files
 
-## Supporting Artifacts
+## Supporting Artifacts and References
 https://canvasjs.com/forums/topic/multiple-chart-with-data-from-csv-file/
 
 https://canvasjs.com/forums/topic/jquery-on-local-host-not-working-want-to-read-local-csv-file/
