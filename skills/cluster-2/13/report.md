@@ -1,18 +1,18 @@
-#  Skill Name
+#  Thermistor - Skill 13
 
-Author: FirstName LastName
+Author: Nnenna Eze
 
-Date: YYYY-MM-DD
+Date: 2020-10-08
 -----
 
 ## Summary
-
+In skill 13, a thermistor sesnor was incorporated into the wiring of the circuit. This adc pin was also used for this skill, and an equation to turn this reading into temperature (in celsius) was used. Once the temperature was calculated, it was printed onto the console. 
 
 ## Sketches and Photos
-
+//pic of wiring
 
 ## Modules, Tools, Source Used Including Attribution
-
+//include references, found in code
 
 ## Supporting Artifacts
 
