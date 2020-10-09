@@ -1,8 +1,5 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+This code folder contains "skill12.c", as well as code for the i2cdisplay, which is mentioned in the header of skill12.c. This was done so that the code for skill 12 did not have to include all of the code from the i2cdisplay to make the alphanumeric display show the voltage number. Rather than rewriting all of that code, we can include add "#include i2cdisplay.c". 
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+*References for code included in skill report
