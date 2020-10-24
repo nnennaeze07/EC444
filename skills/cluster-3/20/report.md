@@ -9,7 +9,7 @@ Date: 2020-10-22
 In this skill, a hostname was created through noip.com, and port forwarding was set up on the loaner router. The external port was set as 3333, and the ip address used was of the raspberry pi while it was connected to the router wifi. 
 
 ## Sketches and Photos
-<img src="https://user-images.githubusercontent.com/44929220/97066106-7ce03e00-1580-11eb-9916-d4d52ea2566c.jpg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/44929220/97066106-7ce03e00-1580-11eb-9916-d4d52ea2566c.jpg" width="450" height="250">
 
 
 ## Modules, Tools, Source Used Including Attribution
