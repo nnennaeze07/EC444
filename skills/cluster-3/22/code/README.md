@@ -1,8 +1,5 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+The code uploaded fulfills skill 22, which was relatively simple. It just required building and running a C file in the esp folder "wifi/getting-started/station", and setting the SSID and PWD to the loander router. More information on this code, its references, and the basis of the skill it fulfills can be found on the report.md of skill 22.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+*References used for code can be found on the report.md of skill 22
