@@ -1,8 +1,5 @@
 # Code Readme
 
-Please describe what is in your code folder and subfolders. Make it
-easy for us to navigate this space.
+The code uploaded fulfills skill 19, and steps in the skill were followed in order to enable the raspberry pi as an access point. This skill was later disbaled for skill 20. More information on this code, its references, and the basis of the skill it fulfills can be found on the report.md of skill 19.
 
-Also
-- Please provide your name and date in any code submitted
-- Indicate attributrion for any code you have adopted from elsewhere
+*References used for code can be found on the report.md of skill 19
