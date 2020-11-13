@@ -14,7 +14,7 @@ The code for this skill is based on the Bully Algorithm, in which a leader is el
 
 <img src="" width="250" height="250">
 
-[Skill 28 demo]()
+[Skill 28 demo](https://youtu.be/ImSPWiK8cZY)
 ## Modules, Tools, Source Used Including Attribution
 UDP
 
