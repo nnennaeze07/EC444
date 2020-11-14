@@ -9,7 +9,7 @@ Date: 2020-11-09
 For this skill, our team decided to use TingoDB, which is simpler version of MongoDB. We created a database, and used information from the smoke.txt to display on the console, and put into the database. This was done using NodeJS. 
 
 ## Sketches and Photos
-
+<img src="" width="300" height="300">
 
 ## Modules, Tools, Source Used Including Attribution
 NodeJS
@@ -18,7 +18,17 @@ TingoDB
 
 Tab-Delimited Parsing 
 
+socket.io
+
 ## Supporting Artifacts
+
+[tingodb](http://www.tingodb.com/)
+
+[Design patterns](http://whizzer.bu.edu/briefs/design-patterns/dp-db)
+
+[Help on creating a javascript array](https://stackoverflow.com/questions/34857458/reading-local-text-file-into-a-javascript-array)
+
+[Query into Database help](https://www.w3schools.com/nodejs/nodejs_mongodb_query.asp)
 
 
 -----
