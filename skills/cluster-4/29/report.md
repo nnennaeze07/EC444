@@ -8,7 +8,7 @@ Date: 2020-11-09
 ## Summary
 This skill did not require any code, it was simply about how to protect the overall system of the remote car that will be used in the future. 
 
-<img src = "https://user-images.githubusercontent.com/44929220/99138608-d1b32980-25ff-11eb-9ffd-d7220c84efb3.png" width="250" height="250">
+<img src = "https://user-images.githubusercontent.com/44929220/99138608-d1b32980-25ff-11eb-9ffd-d7220c84efb3.png" width="500" height="250">
 
 
 Identify weaknesses in your overall system (client, local network, internet, server, node.js, ESP32) with respect to security compromis:
