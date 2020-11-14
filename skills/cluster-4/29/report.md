@@ -8,6 +8,7 @@ Date: 2020-11-09
 ## Summary
 This skill did not require any code, it was simply about how to protect the overall system of the remote car that will be used in the future. 
 
+
 Identify weaknesses in your overall system (client, local network, internet, server, node.js, ESP32) with respect to security compromis:
 
 Weaknesses in the system are based on the local network, internet, server, node.js and ESP32. In a person’s local network, it may be public
@@ -64,6 +65,6 @@ https://phoenixnap.com/blog/prevent-ddos-attacks
 
 https://www.investopedia.com/terms/e/eavesdropping-attack.asp
 
-
 https://www.jolera.com/4-things-you-can-do-to-protect-your-organization-from-endpoint-attacks/
+
 -----
