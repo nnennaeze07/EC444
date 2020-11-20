@@ -11,6 +11,10 @@ This quest required setting up the buggy. I had to wire up the ESC (speed contro
 ## Sketches and Photos
 <img src="https://user-images.githubusercontent.com/44929220/99856322-bba0ee00-2b56-11eb-8f2a-9b5d7e466deb.jpg" height="300" width="300">
 
+[Demo1](https://youtu.be/6DNUNZPrCfs)
+
+[Demo2](https://youtu.be/_IhUQaSzfrU)
+
 ## Modules, Tools, Source Used Including Attribution
 Servo
 
