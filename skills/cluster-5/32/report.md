@@ -11,6 +11,12 @@ For this skill, an optical encoder was wired up to the esp, and placed so that i
 ## Sketches and Photos
 <img src="https://user-images.githubusercontent.com/44929220/100185860-df479980-2eb2-11eb-9047-d4df7ffc7069.gif" height="300" width="300">
 
+<img src="https://user-images.githubusercontent.com/44929220/100831255-68228000-3433-11eb-96ce-879e37088621.jpg" height="300" width="300">
+
+<img src="https://user-images.githubusercontent.com/44929220/100831260-68bb1680-3433-11eb-8747-a3d87c92cef0.jpg" height="300" width="300">
+
+
+
 ## Modules, Tools, Source Used Including Attribution
 Optical encoder
 
