@@ -21,4 +21,8 @@ Wheel Speed
 ## Supporting Artifacts and References
 http://whizzer.bu.edu/briefs/design-patterns/dp-pid
 
+https://cdn.sparkfun.com/assets/b/3/0/b/a/DGCH-RED_datasheet.pdf
+
+https://esp32.com/viewtopic.php?t=5787
+
 -----
