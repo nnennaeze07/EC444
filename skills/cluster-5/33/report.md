@@ -9,7 +9,7 @@ Date: 2020-12-01
 This skill was related to PID. In order to keep the buggy at a set speed, we use PID to either slow it down, or speed it up when necessary. This occurs because the PID calculates an error, measured by the differenced between the set speed and the measured speed. From there, we can pwm to adjust the speed accordingly. 
 
 ## Sketches and Photos
-<img src="https://user-images.githubusercontent.com/44929220/100831640-3231cb80-3434-11eb-93e9-ef8214feff7a.jpg" height="300" width="300">
+<img src="https://user-images.githubusercontent.com/44929220/100831847-93f23580-3434-11eb-8998-b7b4cb9b4316.jpg" height="300" width="300">
 
 ## Modules, Tools, Source Used Including Attribution
 PID
